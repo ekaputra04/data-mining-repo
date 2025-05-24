@@ -1,0 +1,25 @@
+Analisis Perbandingan Metode Data Mining untuk Memprediksi Prestasi Akademik Mahasiswa
+
+Faktor yang Mempengaruhi Nilai (Grade/Total_Score):
+1. Apakah Attendance berkorelasi kuat dengan Final_Score?
+2. Apakah siswa dengan Internet_Access_at_Home memiliki nilai lebih tinggi?
+3. Apakah Study_Hours_per_Week benar-benar meningkatkan nilai?
+
+Pengaruh Latar Belakang Keluarga:
+1. Apakah Parent_Education_Level atau Family_Income_Level memengaruhi Grade?
+2. Apakah siswa dari keluarga berpendidikan tinggi cenderung memiliki Assignments_Avg lebih baik?
+
+Kesehatan Mental & Kebiasaan Belajar:
+1. Apakah Stress_Level tinggi terkait dengan Sleep_Hours_per_Night yang rendah?
+2. Apakah siswa yang ikut Extracurricular_Activities memiliki Stress_Level lebih rendah?
+
+Perbedaan Gender dalam Akademik:
+1. Apakah Gender memengaruhi Quizzes_Avg atau Participation_Score?
+2. Apakah salah satu gender memiliki Study_Hours_per_Week lebih tinggi?
+
+Analisis Departemen (Department):
+1. Departemen mana yang memiliki Total_Score tertinggi/terendah?
+2. Apakah ada perbedaan Attendance antar-departemen?
+
+
+https://www.kaggle.com/datasets/waqi786/student-performance-dataset
